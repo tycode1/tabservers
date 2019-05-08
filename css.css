@@ -31,3 +31,15 @@ button:active {
   box-shadow: 4px 4px 0 #fff;
   transform: scale(1.5) translate(4px, 4px);
 }
+
+.square {
+  position: static;
+  background: Green;
+  height: 70px;
+  line-height: 40px;
+  text-align: center;
+  width: 90px;
+  border-radius: 15px;
+	border-right: dashed;
+left: 10%;
+}
